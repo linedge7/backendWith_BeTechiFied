@@ -2,4 +2,4 @@ This is my first javascript code/assignment while learning backend development w
 
 I made use of Object oriented approach to Javascript for this assignment.
 
-this will the the repo where I will drop all my projects while learning.
+this will be the repository where I will be dropping all my projects and assignments while learning.
