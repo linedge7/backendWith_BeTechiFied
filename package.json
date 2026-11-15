@@ -1,0 +1,17 @@
+{
+  "name": "my_backend_project",
+  "version": "1.0.0",
+  "description": "This project is a follow up on BeTechiFied Cohort November 26'",
+  "license": "ISC",
+  "author": "Chuwang Emmanuel Nyam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon wk-2_ass.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express.js": "^1.0.0"
+  }
+}
