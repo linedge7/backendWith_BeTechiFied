@@ -1,4 +1,6 @@
 ## Week-1 Assignment ##
+- FILE NAME: intro.js
+
 This is my first javascript code/assignment while learning backend development with #BeTechiFied. 
 
 I made use of Object oriented approach to Javascript for this assignment.
@@ -6,7 +8,9 @@ I made use of Object oriented approach to Javascript for this assignment.
 this will the the repo where I will drop all my projects while learning.
 
 ## Week-2 Assignment ##
-### I created a server using Express that handles###
+- FILE NAME: wk-2_ass.js
+
+### I created a server using Express that handles ###
 1. GET request with a URL "/", that sends data from the backend to the user
 - And a Get request with a URL "/user" which accept a params "/user:info" and display it on the console as user-profile
 2. POST request with a URL "/user" that handles data entered by a user from the frontend.
